@@ -1,4 +1,4 @@
-Passionate about mathematics, data, technology, and creative problem-solving. 
+Passionate about **mathematics**, data, technology, and creative problem-solving. 
 
 I enjoy exploring data science,automation, and system design, applying what I learn to real-world projects.
 
