@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Arfo
-- 👀 Passionate about mathematics, I’m interested in statistics, machine learning and deep learning
-- 🌱 I’m currently learning about sound classification techniques
-- 💞️ I’m looking to collaborate on machine learning projects for medical application
-- 📫 You can reach me here : arfo_dublo@boards.digital
+Passionate about mathematics, data, technology, and creative problem-solving. 
 
-<!---
-AkLeyth/AkLeyth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I enjoy exploring data science,automation, and system design, applying what I learn to real-world projects.
+
+In my home lab, I experiment with Linux servers, embedded systems, and 3D printing — always driven by curiosity and the desire to understand how things work. 
+
+I believe in open-source collaboration, continuous learning, and building solutions that make a difference.
+
+**Don’t hesitate to contact me** if you’d like to collaborate, share ideas, or need a hand on a project — I’m always happy to help!
+
+**Email**: arfo_dublo@boards.digital
